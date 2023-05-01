@@ -20,7 +20,7 @@
 ### Методология Бокса-Дженкинса
 ![image](https://user-images.githubusercontent.com/114190495/235472167-35d8e0cf-75f6-4e8d-88c3-4f3a2ab8aeb2.png)
 ![image](https://user-images.githubusercontent.com/114190495/235472233-bb4d8714-3779-4dd6-9bf8-0c0a1b451245.png)
-![image](https://user-images.githubusercontent.com/114190495/235472323-48359fb7-0fac-41ef-99b9-0006d7e3f62e.png)
+![image](https://user-images.githubusercontent.com/114190495/235473950-e90112dc-0d18-4041-9372-10e5cb22ee6e.png)
 ![image](https://user-images.githubusercontent.com/114190495/235472401-d0dcf368-87ad-48e8-85df-44de4aed83a6.png)
 
 Результаты построение PACF и ACF не удовлетворительны. Сложно определить примерные значения p,q для построения ARIMA-модели. Предлагается для начала избавится от трендовой зависимости
@@ -49,6 +49,8 @@
 2. 2023-02-01 - 2023-03-15
 
 3. 2023-03-15 - н.в.
+
+
 ![image](https://user-images.githubusercontent.com/114190495/235473488-94a0fc60-9db5-494a-bd14-dfc758dcf7e1.png)
 ![image](https://user-images.githubusercontent.com/114190495/235473637-8d2970f6-c58d-46e2-a749-c30c16fd4f36.png)
 ![image](https://user-images.githubusercontent.com/114190495/235473717-0ad76971-1acb-4390-b737-cb95201026c5.png)
